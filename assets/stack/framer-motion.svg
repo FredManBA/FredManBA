@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="32" viewBox="0 0 140 32" role="img" aria-label="Framer Motion">
+  <title>Framer Motion</title>
+  <rect x="0.75" y="0.75" width="138.5" height="30.5" rx="15.25" fill="#232323" stroke="rgba(254,110,1,0.8)" stroke-width="1.5"/>
+  <svg x="12" y="8" width="16" height="16" viewBox="0 0 24 24"><g fill="#FE6E01"><path d="M4 0h16v8h-8zM4 8h8l8 8H4zM4 16h8v8z"/></g></svg>
+  <text x="36" y="16" dominant-baseline="central" textLength="90" lengthAdjust="spacingAndGlyphs" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#FDF0E5">Framer Motion</text>
+</svg>

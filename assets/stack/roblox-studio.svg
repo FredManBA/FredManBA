@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="32" viewBox="0 0 136 32" role="img" aria-label="Roblox Studio">
+  <title>Roblox Studio</title>
+  <rect x="0.75" y="0.75" width="134.5" height="30.5" rx="15.25" fill="#232323" stroke="rgba(254,110,1,0.8)" stroke-width="1.5"/>
+  <svg x="12" y="8" width="16" height="16" viewBox="0 0 24 24"><g fill="#FE6E01"><path d="M 13.936 15.356 L 1.826 12.112 L 0 18.93 L 18.928 24 L 21.608 14.01 L 14.79 12.18 L 13.936 15.356 Z M 5.072 0 L 2.394 9.992 L 9.21 11.822 L 10.064 8.644 L 22.174 11.89 L 24 5.072 L 5.072 0 Z"/></g></svg>
+  <text x="36" y="16" dominant-baseline="central" textLength="86" lengthAdjust="spacingAndGlyphs" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#FDF0E5">Roblox Studio</text>
+</svg>

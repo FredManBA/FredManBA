@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="32" viewBox="0 0 90 32" role="img" aria-label="Vercel">
+  <title>Vercel</title>
+  <rect x="0.75" y="0.75" width="88.5" height="30.5" rx="15.25" fill="#232323" stroke="rgba(254,110,1,0.8)" stroke-width="1.5"/>
+  <svg x="12" y="8" width="16" height="16" viewBox="0 0 24 24"><g fill="#FE6E01"><path d="m12 1.608 12 20.784H0Z"/></g></svg>
+  <text x="36" y="16" dominant-baseline="central" textLength="40" lengthAdjust="spacingAndGlyphs" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#FDF0E5">Vercel</text>
+</svg>
